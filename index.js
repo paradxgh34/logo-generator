@@ -1,4 +1,4 @@
-// Require the filesystem module for file operations, inquirer module for user, and custom shape classes
+// Require the filesystem module
 const filesystem = require('./node_modules/graceful-fs/graceful-fs');
 const inquirer = require("inquirer");
 const { Circle, Square, Triangle } = require("./lib/shapes");
@@ -131,4 +131,4 @@ async function letsGo() {
   setUpFile(svgFile, svgText);
 }
 
-letsGo(); // Lets gooooo
+letsGo(); // Lets go
