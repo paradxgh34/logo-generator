@@ -10,3 +10,6 @@ Usage: Ayone who needs to generate a logo.
 Contribution guide lines: Anyone can contribute.
 
 Test instructions: N/A
+
+Link to example video: https://drive.google.com/file/d/1pIY1fpvZEyrin8yYiu5VFLmSbyeOHkFl/view
+
